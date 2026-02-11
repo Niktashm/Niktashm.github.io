@@ -246,3 +246,10 @@ h2{
   opacity: .9;
 }
 .footer .dot{ margin: 0 8px; }
+
+.profile-photo{
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
